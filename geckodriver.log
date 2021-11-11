@@ -1,0 +1,48 @@
+1627027062608	geckodriver	INFO	Listening on 127.0.0.1:62894
+1627027065673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Binny\\AppData\\Local\\Temp\\rust_mozprofile9DRymq"
+1627027082193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Binny\\AppData\\Local\\Temp\\rust_mozprofile9DRymq\\search.json.mozlz4", (void 0)))
+1627027110163	Marionette	INFO	Listening on port 62902
+1627027111461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1627027120244	Marionette	INFO	Stopped listening on port 62902
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627027771093	geckodriver	INFO	Listening on 127.0.0.1:56498
+1627027774115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Binny\\AppData\\Local\\Temp\\rust_mozprofilexN4Ur3"
+1627027776161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Binny\\AppData\\Local\\Temp\\rust_mozprofilexN4Ur3\\search.json.mozlz4", (void 0)))
+1627027781022	Marionette	INFO	Listening on port 56506
+1627027781442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1627027785007	Marionette	INFO	Stopped listening on port 56506
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627036292777	geckodriver	INFO	Listening on 127.0.0.1:54090
+1627036295976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Binny\\AppData\\Local\\Temp\\rust_mozprofileMTJpm8"
+1627036311447	Marionette	INFO	Marionette enabled
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530034,name=PGPU::Msg_UpdateMediaCodecsSupported) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530034,name=PGPU::Msg_UpdateMediaCodecsSupported) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530027,name=PGPU::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53002C,name=PGPU::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
